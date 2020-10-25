@@ -1,0 +1,71 @@
+.contentpart{
+    height: 100%;
+    width: 100%;
+
+    
+}
+
+.contentpart > header{
+    background-image: url("../../Assets/images/pix/ocean.jpg");
+    height: 100%;
+    width: 100%;
+    margin-top: -20px;
+    box-shadow: 5px 0px 10px black ; padding-top: 100px;
+    padding-bottom: 100px;
+    color: white;
+}
+
+.contentpart > header > h2{
+    text-align: center;
+    color: white;
+    font-family: 'Staatliches', cursive;
+
+}
+
+.contentpart > header > p{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    margin-top: 0px;
+}
+.contentpart > .container-fluid > .col-lg-8 {
+    margin-left: auto;
+    margin-right: auto ;
+    /* background-color: red; */
+}
+
+.contentpart > .container-fluid > .col-lg-8 > .w3-animate-bottom > h1 {
+    margin-top: 80px;
+    /* text-align: center; */
+    font-family: 'Marck Script', cursive;
+    font-size: 400%;
+    /* background-color: gold; */
+    margin-left: 20px;
+}
+
+.contentpart > .container-fluid > .col-lg-8 > .w3-animate-bottom > .blog_info {
+    display: flex;
+}
+
+.contentpart > .container-fluid > .col-lg-8 > .w3-animate-bottom > .blog_info >svg {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.contentpart > .container-fluid > .col-lg-8 > .w3-animate-bottom > .blog_info >h6 {
+    font-family: 'Lato', sans-serif;
+    margin-left: 10px;
+    font-size: small;
+}
+
+.contentpart > .container-fluid > .col-lg-8 > .w3-animate-bottom > p {
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: justify;
+    margin-left: 20px;
+}
+
+
+.contentpart > .container-fluid > .col-lg-8 > .w3-animate-bottom > h2 {
+    font-family: 'Marck Script', cursive;
+    margin-left: 10px;
+    float: right;
+}

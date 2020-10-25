@@ -1,0 +1,335 @@
+
+
+.row{
+    /* background-color: #F2FCD9; */
+    margin-top: -15px;
+    
+}
+
+
+.div1{
+    padding: 20px;
+    
+    text-align: justify;
+}
+
+.div1 > h4{
+    text-align: center;
+    margin: 30px;
+    font-family: 'Bungee', cursive;
+    font-size: xx-large;
+    color: #74AC4B;
+    
+}
+
+.div1 > p {
+    font-family: 'Lato', sans-serif;
+}
+
+.div1 > img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.div2{
+    padding: 20px;
+    /* background-color: #F2FCD9; */
+    text-align: justify;
+    height: 100%;
+}
+
+.div2 > h1{
+    text-align: center;
+    font-family: 'Bungee', cursive;
+    
+    color: #74AC4B;
+    
+    
+}
+
+.div2 > p{
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar{
+    background-color: #9BE564; 
+    box-shadow: 2px 0px 2px black ; 
+}
+
+
+
+.btn{
+    display: block;
+    
+}
+
+.gallery {
+    /* background-color: red; */
+    margin-top: 30px;
+    background-color: #C8F35D;
+    /* box-shadow: inset 0 0 3px black; */
+    border-radius: 10px;
+  }
+
+.gallery:hover {
+    opacity: .9;
+  }
+
+
+.desc> h3{
+    font-size: 100%;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -30px;
+    text-transform: uppercase;
+    font-family: 'Bungee', cursive;
+    color: #74AC4B;
+}
+
+
+  
+.desc > p{
+    padding: 15px;
+    font-family: 'Lato', sans-serif;
+    margin-top: 5px;
+    
+  }
+
+.gallery > p {
+    text-align: center;  
+    margin-bottom: 50px; 
+    font-family: 'Lato', sans-serif;
+}
+
+
+.row> col-lg-4 >#blog1{
+    transition-delay: 2s;
+
+}
+
+.row> col-lg-4 >#blog2{
+    transition-delay: 4s;
+}
+
+
+
+.div3 > .row >#hobbies1{
+    /* background-color: #C8F35D; */
+    width: 100%;
+    height: 100%;
+
+    
+
+    /* border-top-style: solid ;
+    border-top-width: 5px; */
+}
+
+
+
+.div3 > .row > .col-lg-6 > h1{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-family: 'Bungee', cursive;
+}
+
+.div3 > .row > .col-lg-6 > .container-fluid > .col-lg-6 > img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: red; */
+}
+
+.div3 > .row > .col-lg-6 > .container-fluid > .col-lg-6 > h4{
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: 'Lato', sans-serif;
+}
+
+.div3 > .row > .col-lg-6 > .container-fluid > .col-lg-4 > img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div3 > .row > .col-lg-6 > .container-fluid > .col-lg-4 > h4{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    font-family: 'Lato', sans-serif;
+
+}
+
+/* CAROUSEL PART CSS */
+.div3 > .row >#hobbies2{
+    /* background-color: #74AC4B; */
+    width: 100%;
+    height: 100%;
+
+}
+
+
+.div3 > .row > .col-lg-6 > .carousel > .carousel-inner >.carousel-item > h1{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-family: 'Bungee', cursive;
+}
+
+.div3 > .row > .col-lg-6 > .carousel > .carousel-inner >.carousel-item > h4{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+
+.div3 > .row > .col-lg-6 > .carousel > .carousel-inner >.carousel-item > .row > .col-lg-4 > a > img{
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 8px black ; 
+}
+
+.div3 > .row > .col-lg-6 > .carousel > .carousel-inner >.carousel-item > .row > .col-lg-4 > h5{
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+
+.div3 > .row > .col-lg-6 > .carousel > .carousel-inner >.carousel-item > .row > .col-lg-4 > p{
+    text-align: justify;
+    
+}
+
+.div3 > .row > .col-lg-6 > .carousel > .carousel-inner >.carousel-item > .photos > img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 8px black ; 
+}
+
+.div3 > .row > .col-lg-6 > .carousel > .carousel-inner >.carousel-item > .photos > p {
+    text-align: justify;
+    margin-top: 20px;
+    margin-inline: 30px;
+}
+
+/* CONTACTS PART */
+.div4  {
+    
+    height: 100%;
+    width: 100%;
+    background-color: #74AC4B;
+    margin-top: 50px;
+    /* margin-bottom: 10px; */
+    border-top-style: solid ;
+    border-top-width: 5px;
+}
+
+.div4 > h1 {
+    margin: 20px 0px 10px 20px;
+    font-family: 'Bungee', cursive;
+    /* background-color: red; */
+}
+
+.div4 > .row > .col-lg-4 {
+    margin-top: 20px;
+}
+
+.div4 > .row > .col-lg-4 > .col-lg-12 > .info{
+    display: flex;
+    
+    margin-bottom: 10px;
+    margin-left: 35px;
+    margin-right: 50px;
+    /* border-bottom-color: white; */
+    /* background-color: white; */
+    
+}
+
+
+
+.div4 > .row  > .col-lg-4 > .col-lg-12 > .info > h6{
+    font-weight: bold;
+    margin-top: 2.5px;
+    margin-right: 20px;
+    font-family: 'Bungee', cursive;
+}
+
+.div4 > .row > .col-lg-4 > .col-lg-12 > .info > p{
+    margin-left: 10px;
+}
+
+
+
+
+.div4 > .row > .col-lg-4 > .col-lg-12 > .socMed {
+    display: block;
+    margin-left: 20px;
+}
+
+.div4 > .row > .col-lg-4 > .col-lg-12 > .socMed > .fb {
+    display: flex;
+}
+
+.div4 > .row > .col-lg-4 > .col-lg-12 > .socMed > .fb > a > img{
+    height: 30px;
+    width: 30px;
+    margin: 0px 10px 25px 20px;
+    
+}
+
+.div4 > .row > .col-lg-4 > .col-lg-12 > .socMed > .ig {
+    display: flex;
+}
+
+.div4 > .row > .col-lg-4 > .col-lg-12 > .socMed > .ig > a > img{
+    height: 30px;
+    width: 30px;
+    margin: 0px 10px 25px 20px;
+    
+}
+
+.div4 > .row > .col-lg-4 > .col-lg-12 > .socMed > .twitter {
+    display: flex;
+}
+.div4 > .row > .col-lg-4 > .col-lg-12 > .socMed > .twitter > a > img{
+    height: 30px;
+    width: 30px;
+    margin: 0px 10px 25px 20px;
+    
+}
+
+
+.div4 > .row > .col-lg-4 > .col-lg-12 > h6{
+    display: block;
+    /* margin-top: 10px; */
+    margin-right: 50px;
+    font-family: 'Bungee', cursive;
+    /* text-align: center; */
+}
+
+.div4 > .row > .col-lg-4 > .col-lg-12 > .message {
+    display: block;
+    /* margin-left: 45px; */
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    /* text-align: center; */
+}
+
+.div4 > .row > .col-lg-4 > .col-lg-12 > .message , #fname {
+    width: 100%;
+}
+
+.div4 > .row > .col-lg-4 > .col-lg-12 > .message > div , #lname {
+    width: 100%;
+}
+
+.div4 > .row > .col-lg-4 > .col-lg-12 > .message > div , #subject {
+    height: auto;
+    width: 100%;
+}

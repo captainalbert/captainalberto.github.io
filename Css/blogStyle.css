@@ -1,0 +1,64 @@
+.con1{
+    height: 400px ;
+    width: 100% ;
+    /* background-color: red; */
+}
+
+.con1 > h1 {
+    text-align: center;
+    font-family: 'Bungee', cursive;
+    margin-top: 50px;
+    font-size: 400%;
+    color:  #74AC4B;
+}
+
+.con1 > .container-fluid {
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: yellow; */
+}
+
+.con1 > .container-fluid > .col-lg-4 {
+    /* background-color: green; */
+}
+
+.con1 > .container-fluid > .col-lg-4 > div > a > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    
+   
+}
+
+.con1 > .container-fluid > .col-lg-4 > div > a > img:hover{
+    opacity: .9;
+}
+
+
+.con1 > .container-fluid > .col-lg-4 > div > a > h2 {
+    font-size: 150%;
+    text-align: center;
+    font-family: 'Bungee', cursive;
+    margin-top: 10px;
+    color:  black;
+    
+    /* background-color: red; */
+    
+}
+
+.con1 > .container-fluid > .col-lg-4 > div > h6{
+    
+    text-align: center;
+    /* font-family: 'Bungee', cursive; */
+    margin-top: -5px;
+    margin-bottom: 20px;
+    /* background-color: red; */
+    font-family: 'Lato', sans-serif;
+}
